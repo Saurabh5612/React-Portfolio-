@@ -61,7 +61,8 @@ WHEN I view the footer!
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow)
 
 ## Screenshot
-[Screenshot (13)](https://user-images.githubusercontent.com/83927859/150885154-ee425f0b-d6a3-47cc-b005-f7746317458b.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/83927859/150885444-846663f2-b1c8-463c-80f2-d4a2db3c9095.png)
+
 
 ## link
 https://saurabhpatel56-react-portfolio.herokuapp.com/
