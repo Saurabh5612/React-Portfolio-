@@ -34,6 +34,24 @@ function Portfolio() {
       // ],
     },
     {
+      title:"amigosmovies",
+      description:"To maintain a good health, we are socially isolating and spending more time indoors",
+      img: {
+        srcId:"amigosmovies",
+        alt:"image that shows movies",
+      },
+      deployed: {
+        href:"https://limitless-wildwood-24017.herokuapp.com/",
+        text:"amigosmovies",
+      },
+      repo:{
+        href:"https://github.com/carlosbarnola/4amigos-movies",
+        text: "Github Repository",
+
+      },
+    },
+  
+    {
       title: "Budget Tracker",
       description: "Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.",
       img: {

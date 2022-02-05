@@ -6,7 +6,8 @@ const Project = (props) => {
 	petadoption: require("../../assets/images/pet adoption.png"),
 	fooddashapp: require("../../assets/images/fooddashapp.png"),
 	pwa: require("../../assets/images/pwa.png"),
-	weather: require("../../assets/images/weatherapp.png")
+	weather: require("../../assets/images/weatherapp.png"),
+  amigosmovies:require("../../assets/images/amigosmovies.png"),
   };
 
   return (
