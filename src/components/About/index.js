@@ -17,12 +17,8 @@ function About() {
 			<p className="text-gray-600 text-lg font-semibold text-justify"> based in the  Frederick MD area, USA </p>
 		</div>
 		<div className='mt-8 self-center px-4 text-lg font-semibold tracking-wider text-center'>
-		  <p> I am a full stack web developer looking to build a more
-					intuitive user experience on the web. I recently earned
-					a certificate in full stack development from The George Washington
-					University  bootcamp, with newly developed
-					skills in JavaScript, CSS, React.js, and responsive web
-					design. while learning new technologies. </p>
+		  <p> Full stack web developer looking to build a more intuitive user experience on the web. Recently earned a certificate in full stack development from The University of George Washington Coding Boot Camp. Innovative,task-driven and detail oriented, meticulous problem solver, Proficient in developing databases,creating user interfaces, scripting and testing code and implementing new features based on user feedback.I worked on a team of five to develop a single-pageMy goal in any project is to do my best to impress my users. Strengths in creativity, teamwork, and building projects from ideation to execution.
+ </p>
 		</div>
 	</div>
 	</div>
